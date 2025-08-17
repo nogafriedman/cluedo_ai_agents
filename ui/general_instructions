@@ -1,0 +1,10 @@
+- each game will have given numbers of players (2<=), suspects, weapons and rooms
+- general flow - 
+    - player enters those parameters through the command line: number players (2<=), suspects, weapons and rooms, game mode (player vs computer,
+      computer vs computer, which algorithm to choose), UI vs no UI (?) and number of rounds
+    - we build the UI accordingly
+    - in relevant algorithms, we calculate the paths that the computer is going to play
+    - we start running the game, in turns, changing the UI in each turn
+    - in the computer's turn (also in computer vs computer) we run the chosen algorithm to generate the next step
+    - continue until one of the players win
+    - meanwhile - track how many wins each side has
