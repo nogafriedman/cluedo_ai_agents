@@ -22,4 +22,4 @@ For a more customized experience, you can tweak the following parameters:
 (for example, you can use commands like: "python3 cluedo_main.py --rounds=3", "python3 cluedo_main.py --players_num=3 --players='kr kr random' --seed=123" etc)
 
 Enjoy!
-And for more details, questions and ideas, feel free to reach us at inbar.elmaliach@mail.huji.ac.il, noga.friedman@mail.huji.ac.il and metar.megiora@mail.huji.ac.il
+And for more details, questions and ideas, feel free to reach us at inbar.elmaliach@mail.huji.ac.il, noga.fri@mail.huji.ac.il and metar.megiora@mail.huji.ac.il
