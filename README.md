@@ -1,4 +1,4 @@
-# cluedo_ai_final_project
+# Cluedo AI Agents 🎲🕵️‍♀️
 
 This project was developed as the final project for the course Introduction to AI (67842) at HUJI.  
 We built a full implementation of the board game Cluedo, along with multiple AI agents that can play (and often win) the game — against each other or against a human player.
