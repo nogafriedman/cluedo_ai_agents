@@ -22,13 +22,13 @@ Our AI agents are based on algorithms studied in the course:
 - Minimax made smart moves but struggled more than expected in practice.
 - Random agents... remained random.
 
-(See the full paper for detailed benchmarks, comparisons, and insights.)
+(See the [full paper](https://github.com/user-attachments/files/22604572/67842_Final_project_documentation_-_Cluedo_final.1.pdf) for detailed benchmarks, comparisons, and insights.)
 
 # Getting Started
-Run a game with default settings:  
+__Run a game with default settings:__  
 python3 cluedo_main.py
 
-Customize with parameters:  
+__Customize with parameters:__   
 1. --players_num: number of players (2–6, default: 2).  
 2. --suspects_num: number of suspects (default: 6, max: 10).  
 3. --weapons_num: number of weapons (default: 6, max: 10).  
@@ -37,6 +37,7 @@ Customize with parameters:
 6. --rounds: number of rounds (default: 1).  
 7. --test_mode: compact mode, no UI or humans ('y'/'n', default: 'n').  
 8. --seed: random seed for reproducibility (default: 1).  
+
 Examples:
 python3 cluedo_main.py --rounds=3  
 python3 cluedo_main.py --players_num=3 --players="kr kr random" --seed=123  
@@ -49,7 +50,7 @@ ui/ – frontend and game interface.
 resources/ – supplementary materials.  
 
 # Documentation
-For a deep dive into methodology, experiments, and results, check out the [full project report (PDF)](https://github.com/user-attachments/files/22604572/67842_Final_project_documentation_-_Cluedo_final.1.pdf)
+For a deep dive into methodology, experiments, and results, check out the [full project report (PDF)](https://github.com/user-attachments/files/22604572/67842_Final_project_documentation_-_Cluedo_final.1.pdf).
 
 # Contributors
 - [Noga Friedman](mailto:noga.fri@mail.huji.ac.il)  
