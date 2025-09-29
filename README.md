@@ -38,7 +38,7 @@ __Customize with parameters:__
 7. --test_mode: compact mode, no UI or humans ('y'/'n', default: 'n').  
 8. --seed: random seed for reproducibility (default: 1).  
 
-Examples:
+Examples:  
 python3 cluedo_main.py --rounds=3  
 python3 cluedo_main.py --players_num=3 --players="kr kr random" --seed=123  
 
