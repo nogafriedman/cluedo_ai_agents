@@ -43,11 +43,11 @@ python3 cluedo_main.py --rounds=3
 python3 cluedo_main.py --players_num=3 --players="kr kr random" --seed=123  
 
 # Project Structure
-cluedo_main.py – entry point to run the game.  
-algorithms/ – AI agent implementations.  
-game_elements/ – core game logic and mechanics (board, cards, game state).  
-ui/ – frontend and game interface.  
-resources/ – supplementary materials.  
+```cluedo_main.py``` – entry point to run the game.  
+```algorithms/``` – AI agent implementations.  
+```game_elements/``` – core game logic and mechanics (board, cards, game state).  
+```ui/``` – frontend and game interface.  
+```resources/``` – supplementary materials.  
 
 # Documentation
 For a deep dive into methodology, experiments, and results, check out the [full project report (PDF)](https://github.com/user-attachments/files/22604572/67842_Final_project_documentation_-_Cluedo_final.1.pdf).
